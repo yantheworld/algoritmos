@@ -1,1 +1,1 @@
-Algoritmos
+Treinando algoritmos em programação
